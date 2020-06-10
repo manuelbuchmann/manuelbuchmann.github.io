@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/manuelbuchmann/manuelbuchm
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Graphs:
-- [Medianalter in Schweizer Kantonen](manuelbuchmann.github.io/medianalter)
+## Grafiken zur demografischen Entwicklung in der Schweiz:
+- [Medianalter in Schweizer Kantonen](/medianalter)
 
 ### Markdown
 
